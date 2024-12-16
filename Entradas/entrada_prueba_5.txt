@@ -1,0 +1,116 @@
+Diego Morales, Experticia: 5, Opinión: 8
+Laura Jiménez, Experticia: 8, Opinión: 6
+Pedro Suárez, Experticia: 10, Opinión: 9
+Carolina Rojas, Experticia: 4, Opinión: 5
+Andrés Cárdenas, Experticia: 6, Opinión: 7
+Marcela Gómez, Experticia: 7, Opinión: 8
+Pablo Castillo, Experticia: 9, Opinión: 4
+Diana Martínez, Experticia: 2, Opinión: 3
+Santiago Reyes, Experticia: 1, Opinión: 6
+María Cano, Experticia: 8, Opinión: 9
+Ana Mejía, Experticia: 3, Opinión: 7
+Luis Vargas, Experticia: 10, Opinión: 10
+Verónica López, Experticia: 6, Opinión: 5
+Daniela Torres, Experticia: 5, Opinión: 4
+Ricardo Pérez, Experticia: 7, Opinión: 6
+Jessica Sandoval, Experticia: 4, Opinión: 9
+Juan Álvarez, Experticia: 8, Opinión: 2
+Felipe Mendoza, Experticia: 9, Opinión: 8
+Gloria Ramírez, Experticia: 3, Opinión: 7
+Héctor Orozco, Experticia: 2, Opinión: 6
+Claudia Castro, Experticia: 4, Opinión: 5
+Jorge Ramírez, Experticia: 7, Opinión: 6
+Paola Vargas, Experticia: 6, Opinión: 8
+Camilo Torres, Experticia: 5, Opinión: 7
+Sara Hernández, Experticia: 9, Opinión: 9
+Emilio Restrepo, Experticia: 3, Opinión: 4
+Adriana Lozano, Experticia: 8, Opinión: 6
+Julio Gutiérrez, Experticia: 10, Opinión: 10
+Carmen Delgado, Experticia: 6, Opinión: 5
+Óscar León, Experticia: 7, Opinión: 8
+Fernanda Molina, Experticia: 8, Opinión: 9
+Mateo Castaño, Experticia: 4, Opinión: 6
+Daniel Fuentes, Experticia: 3, Opinión: 7
+Gabriela Ortiz, Experticia: 9, Opinión: 8
+Natalia Valencia, Experticia: 2, Opinión: 3
+Esteban Peña, Experticia: 1, Opinión: 5
+Lorena Beltrán, Experticia: 5, Opinión: 6
+Santiago Acosta, Experticia: 6, Opinión: 4
+Manuela Vargas, Experticia: 7, Opinión: 7
+Sebastián Paredes, Experticia: 8, Opinión: 9
+Isabel Rojas, Experticia: 6, Opinión: 7
+Carlos López, Experticia: 8, Opinión: 8
+Alejandra Rivera, Experticia: 4, Opinión: 6
+Patricia Méndez, Experticia: 5, Opinión: 5
+Julián Vargas, Experticia: 10, Opinión: 7
+Eliana Torres, Experticia: 2, Opinión: 5
+Luis Castro, Experticia: 3, Opinión: 7
+Sofía Andrade, Experticia: 7, Opinión: 6
+Andrea Cruz, Experticia: 4, Opinión: 8
+Samuel Ortega, Experticia: 9, Opinión: 7
+Victoria Nieto, Experticia: 6, Opinión: 5
+Eduardo Márquez, Experticia: 8, Opinión: 9
+Lucía Valdez, Experticia: 5, Opinión: 4
+Camila Reyes, Experticia: 4, Opinión: 7
+Pablo Villalobos, Experticia: 9, Opinión: 6
+Daniel Patiño, Experticia: 7, Opinión: 8
+Tatiana Morales, Experticia: 5, Opinión: 6
+Roberto Salazar, Experticia: 8, Opinión: 5
+Valeria Guzmán, Experticia: 6, Opinión: 9
+Mario Hernández, Experticia: 9, Opinión: 10
+Luciana Vargas, Experticia: 7, Opinión: 4
+Felipe Navarro, Experticia: 8, Opinión: 7
+Adriana Sandoval, Experticia: 3, Opinión: 6
+Tomás Espinosa, Experticia: 9, Opinión: 8
+Santiago Castillo, Experticia: 8, Opinión: 5
+Nicolás Rojas, Experticia: 7, Opinión: 9
+Mariana Ortiz, Experticia: 4, Opinión: 6
+David Sánchez, Experticia: 5, Opinión: 7
+Paula Figueroa, Experticia: 8, Opinión: 9
+Álvaro Molina, Experticia: 6, Opinión: 6
+Melisa Torres, Experticia: 5, Opinión: 4
+Gonzalo Romero, Experticia: 9, Opinión: 5
+Eugenia Pérez, Experticia: 8, Opinión: 6
+Tomás Gómez, Experticia: 7, Opinión: 7
+Lina Beltrán, Experticia: 4, Opinión: 5
+Manuel Ruiz, Experticia: 8, Opinión: 7
+Jorge Soto, Experticia: 10, Opinión: 9
+Carolina Gómez, Experticia: 6, Opinión: 8
+Miguel Márquez, Experticia: 5, Opinión: 6
+Leticia Salazar, Experticia: 7, Opinión: 5
+Claudia López, Experticia: 8, Opinión: 6
+Andrés Pérez, Experticia: 6, Opinión: 9
+Ángela Cárdenas, Experticia: 5, Opinión: 7
+Francisco Ramos, Experticia: 9, Opinión: 6
+Valeria Suárez, Experticia: 8, Opinión: 10
+Pablo Torres, Experticia: 7, Opinión: 4
+Julián Restrepo, Experticia: 8, Opinión: 5
+Andrea Castaño, Experticia: 4, Opinión: 7
+Sofía Méndez, Experticia: 5, Opinión: 6
+
+
+{1, 5, 73, 74}
+{57, 58, 77, 78}
+{8, 15, 20, 25}
+{6, 14, 22, 35}
+{3, 7, 17, 81, 89}
+
+{9, 18, 23, 30, 40}
+{4, 11, 21, 79, 80}
+{68, 69, 70, 71, 72}
+{13, 27, 86, 87, 88}
+{26, 29, 33, 34, 36}
+
+{31, 37}
+{38, 39, 42, 45, 46}
+{41, 43, 84, 85}
+{44, 47, 48, 49, 50}
+{51, 55, 60}
+
+
+{52, 53, 54, 56}
+{2, 10, 12, 75, 76}
+{59, 61, 62, 63, 64}
+{65, 66, 67, 82, 83}
+{16, 19, 24, 28, 32}
+

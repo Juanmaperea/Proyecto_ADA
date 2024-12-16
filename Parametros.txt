@@ -1,0 +1,2 @@
+archivo_entrada=entrada_prueba_7.txt
+archivo_salida=salida_prueba_7.txt
